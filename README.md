@@ -1,5 +1,5 @@
 # README
-A set of Ansible modules that lets you manage IBM packages
+A set of Ansible modules that lets you manage IBM packages.
 
 ## Module Summary
 | Module | Description |
